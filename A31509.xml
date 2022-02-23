@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain propositions relating to the Scots plantation of Caledonia, and the national address for supporting thereof breifly offered to publick view, for removing of mistakes and prejudices.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31509</idno>
+            <idno type="STC">Wing C1729C</idno>
+            <idno type="STC">ESTC R221852</idno>
+            <idno type="EEBO-CITATION">31354945</idno>
+            <idno type="OCLC">ocm 31354945</idno>
+            <idno type="VID">110293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110293)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1736:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain propositions relating to the Scots plantation of Caledonia, and the national address for supporting thereof breifly offered to publick view, for removing of mistakes and prejudices.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Glasgow :</pubPlace>
+                  <date>Printed in the Year, 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: cropped, stained, creased, and faded, with loss of text; best copy available for photographing.</note>
+                  <note>Formerly identified as Wing C1732 (number cancelled).</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Scotland Trading to Africa and the Indies.</term>
+               <term>Darien Scots' Colony, 1698-1700.</term>
+               <term>Panama --  Colonization.</term>
+               <term>Panama --  Discovery and exploration.</term>
+               <term>Scotland --  Commercial policy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110293:1" rendition="simple:additions"/>
+            <head>
+               <hi>Certain Propoſitions</hi> Relating to the <hi>Scots</hi> Plantation of <hi>CALEDONIA,</hi> and the National Addreſs for ſupporting thereof, breifly offered to Publick View, for removing of Mistakes and Prejudices.</head>
+            <p n="1">I. THAT the <hi>Scotch</hi> Planters have entered upon <hi>Caledonia</hi> by Warrant, and un<g ref="char:EOLhyphen"/>der Security of an Act of Parliament, and Letters patent from his Majeſty under the Great Seal, and moſt ſtrictly within the Terms and Conditions thereof; otherwiſe there had needed no more to Ruine them, than a De<g ref="char:EOLhyphen"/>claration of their having Forfeited their Act and Charter.</p>
+            <p n="2">II. That their Right is confirmed by Invitation from, and League with the original free Natives of that Country, who only can have the primary Natural Right to the Soil, and from whom the <hi>Spaniards</hi> have, contrary to all Juſtice, Faith, and Contract, u<g ref="char:EOLhyphen"/>ſurp'd what they now proſſeſs in <hi>America,</hi> having obtain'd their Poſſeſſion by Fraud and Force and Barbarous Cruelty, and by the Popes Donation upon certain Condi<g ref="char:EOLhyphen"/>tions, which they have not in the leaſt obſerved, as is fully made appear by <hi>Bartholo<g ref="char:EOLhyphen"/>mew de las Caſas</hi> Biſhop of <hi>Chiapa,</hi> one of there own Miſſionaries.</p>
+            <p n="3">III. That the place choſen by the <hi>Scots</hi> was never inhabited by the <hi>Spaniards</hi> or any other <hi>European,</hi> and conſequently the <hi>Scots</hi> have the ſame freedom to take Poſſeſſion of it, as the <hi>Engliſh</hi> to poſſeſs any part of the Coaſt from <hi>New-England</hi> to <hi>Florida,</hi> the <hi>French</hi> in <hi>Canada</hi> and <hi>Meſſaſippy,</hi> the <hi>Portuguez</hi> in <hi>Braſil,</hi> and the <hi>Dutch</hi> in <hi>Suranam,</hi> being all upon the ſame Continent, which the <hi>Spaniards</hi> from <hi>Columbus's</hi> diſcovery, do chal<g ref="char:EOLhyphen"/>lenge to themſelves. And indeed it is evident, That the Crown and Kingdom of <hi>Scotland</hi> hath not a better Title, nor a more juſt Right to any <hi>Scots</hi> Territory from the <hi>Mule</hi> of <hi>Galloway</hi> to the <hi>Week</hi> of <hi>Cathnes</hi> then to <hi>Caledonia</hi> in <hi>America.</hi>
+            </p>
+            <p n="4">IV. That not only have the <hi>Scots</hi> the ſole unqueſtionable Right to this Important Place: But likewiſe, albeit they have been hitherto debarr'd from all Benefit of free Trading in other Plantations, yet they have very frankly offered both to the <hi>Engliſh</hi> and <hi>Dutch,</hi> their Proteſtant Neighbours, a reaſonable Share in all the Advantages of <hi>Caledonia,</hi> which for Natural Wealth and Strength, and conveniency of Trading, is without Diſpute, the moſt conſiderable in the whole World.</p>
+            <p n="5">V. That if the <hi>Scots</hi> be forced to abandon their Plantation, the <hi>French</hi> will undoubt<g ref="char:EOLhyphen"/>edly ſeize upon it, not only for the ſake of Trade, Gain, and Empire; But likewiſe in Zeal for rooting out the Northern Hereſy, both from <hi>America</hi> and <hi>Europe,</hi> which may be eaſily foreſeen, both by the vaſt occaſion of Power and Wealth, that ſo impor<g ref="char:EOLhyphen"/>rant a Poſt will bring to the <hi>French</hi> Greatneſs, and by the keen Reſentment that all the Popiſh Courts, and particularly the Court of <hi>Rome</hi> have teſtified againſt the <hi>Scots</hi> poſ<g ref="char:EOLhyphen"/>ſeſſing thereof, and by the no leſs unpolitick than cruel Perſecution that, at this day rages in <hi>France</hi> againſt the poor Remnant of Proteſtants, who cannot comply with their Superſtition and Idolatry.</p>
+            <p n="6">VI. That there is ſuch an hopeful appearance of propagating the pure Goſpel a<g ref="char:EOLhyphen"/>mongſt an Harmleſs, good Natur'd People in the Neighbourhood of <hi>Caledonia,</hi> who ſeem well diſpoſed to receive it, as ought to excite Reformed Proteſtants to contri<g ref="char:EOLhyphen"/>bute thereto with the greateſt Vigor; and to ſtrengthen themſelves againſt the Ro<g ref="char:EOLhyphen"/>miſh Power; eſpecially when Popery prevails ſo mightily over all <hi>Europe,</hi> and the Papiſts compaſs Sea and Land to gain Proſelites; Nor doth the Remotneſs, Danger and Barbarities of <hi>China, Japan, Tartary,</hi> and all the back parts of the <hi>Engliſh</hi> Plantations diſcourage or faint their Zeal.</p>
+            <p n="7">VII. That therefore, it is the undoubted Intereſt and Duty of all Proteſtants, to ſup<g ref="char:EOLhyphen"/>port this Colony in the <hi>Scots</hi> hands, who have the only juſt Right thereto; and in whoſe Poſſeſſion, it muſt certainly prove more beneficial to all other Proteſtant King<g ref="char:EOLhyphen"/>dom and States, than any other more wealthy and powerful Kingdom or State would ſuffer it to be unto the reſt, if they did poſſeſs it alone. And it muſt be the unqueſtion<g ref="char:EOLhyphen"/>able duty of all true hearted <hi>Scots</hi> Men to endeavour by all Juſt, Legal, and orderly ways, the Preſervation of their own Colony.</p>
+            <p n="8">VIII. That whatever has been the Cauſe of the late Diſaſter of <hi>Caledonia,</hi> yet moſt Evident it is, that the Colony cannot now be preſerved to <hi>Scotland,</hi>
+               <pb facs="tcp:110293:2"/> unleſs the Force and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the <hi>Weſt-India</hi> Proclamations be taken off, and that ob, very ſpeedily, ſi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is undeniably manifeſt, that the Company under t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir pre<g ref="char:EOLhyphen"/>ſent hard Circumſta<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, and now ſadly redoubled Misfortunes, are not able to ſup<g ref="char:EOLhyphen"/>port the ſame, and vigio<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the very ſpeedy Aſſiſtance of a Parliament, not only muſt ſo Great and Honour <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Enterpriſe fall to the Ground, but the remaining Perſons, and the Treaſure empl<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d therein muſt Periſh, to the Irreparable Leſs and Diſ<g ref="char:EOLhyphen"/>honour of the Nation<g ref="char:punc">▪</g>
+            </p>
+            <p n="9">IX. That the only <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and effectual Way for Remedy, is (in imitation of the <hi>Dutch-East-India-Compa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho having been unſucceſsful in their two firſt Voyages, were ſupported by th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>-General</hi>) in all Humble and Dutiful Manner, to Addreſs the King for the Meeti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the parliament; which having been already done by the Company, and his Majeſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y having been pleaſed to regret their and the Kingdoms loſs, and to promiſe that th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>iament ſhall meet, when the Good of the Nation does require it; There can <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>othing more Natural, than for the Nation themſelves to acquaint his Majeſty <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e urgent Neceſſity of the Parliament's ſpeedy Meeting, upon ſo weighty and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſing a Juncture, and of ſo Univerſal a Concern to the whole Nation.</p>
+            <p n="10">X. That the Natural <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>at of Petitioning, in a Legal and Orderly Wa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> being revived and aſſerted by <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Claim of Right,</hi> the Happy Purchaſe of the late <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ricus Revolution: And His Majeſty, our Great De<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> under God, having alw<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſti<g ref="char:EOLhyphen"/>fied a juſt Regard to the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oreſaid Right of Petiti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en in that Proc<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tion that forbids Illegal Meth<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; However His Majeſty <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me things, h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een miſ-informed, to the Pr<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ice of this His Ancient King <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Yet it is nev<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be imagined, but that wher<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> underſtands their true Good from themſelves, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill Graciouſly grant their Je<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Neceſſary Deſires, and with <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n Countenance, and take <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e of their Righteous Cauſe.</p>
+            <p n="11">XI. That tho it be Di<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>yal for any Man, to doubt of the Kings granting <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>liament, when ſought by <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſiderable a part of the Nation: And to doubt o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parliament's ſupporting <hi>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>donia,</hi> is unworthy of a <hi>Scots</hi> Man; Yet if the Queſtion<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ask'd, What is to be don<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> caſe of Refuſal? The Anſwer is pl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in, That firſt, the N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion ſhall have the Satisfa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion of having done their Duty; and next, they ſhall have the Melancholly Advant<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of knowing, that further Attempts for an <hi>American</hi>-Plantation muſt at preſent <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſe, ſo as they need not fruitleſly throw away more Men and Money to be loſt in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oubtful Expectations, but muſt gather up their Shipwrack, and call Home what <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ns.</p>
+            <p n="12">XII. That in a Caſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Univerſal and Preſſing Concern, as Perſons of differ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Intereſts have been in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o enter into the Trading Society, ſo it ought to frigh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> none from their Duty <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>omoting this Addreſs, becauſe Perſons of the ſame di<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ring Intereſts joyn in it; <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce the Addreſs it ſelf is National, Loyal and Proteſtan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and one of the beſt Securities to the preſent Government; and ſo alſo is the Deſign, in which all doth Center.</p>
+            <p n="13">XIII. That albeit ſome ill Minded Perſons beſtir themſelves in blowing about In<g ref="char:EOLhyphen"/>ſinuations, Surmiſes and Jealouſies, to raiſe Duſt and blind Peoples Eyes, yet theſe are ſo weak and groundleſs, and are convincingly found to be ſo very idle Stuff, that they deſerve the utmoſt Contempt, ſince Perſons of all Ranks engaged in the Ad<g ref="char:EOLhyphen"/>dreſs, do on all Occaſions openly diſown all Intentions of Diſquieting or Prejudging the Government in Church or State, as now by Law eſtabliſhed, and declare their only Deſign to be His Majeſty's true Honour, and the Good of the Countrey, which are inſeparable, and the Chriſtian Glory of the Church, in the Propagation of the Goſpel by the Proteſtant Presbyterian Miniſters of the Church of <hi>Scotland.</hi> Beſides, that, there is an abſolute Impoſſibility, if Matters be duly pondered, that it ſhould be otherwiſe; or that an Addreſs for the Meeting of that Parliament, which effectuated the late Happy Revolution, and for the Support of <hi>Caledonia,</hi> can have any other Tendency.</p>
+            <p n="14">XIV. That the General Aſſembly, by their Acts, and the Commiſſion, by their Letter to the Colony, their Miſſion in Summer laſt, and their late Recommendation to Presbyteries, have teſtified ſo peculiar a Regard to the <hi>Caledonian-Undertaking,</hi> and ſo juſt a Senſe of the great Intereſts of Religion therein, That no Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel, who will not blindly truckle to a Party, or is not miſled by the Power of Preju<g ref="char:EOLhyphen"/>dice, can heſitat upon the Neceſſity, much leſs upon the Expediency of ſo Dutiful and Loyal an Addreſs, when the Countries Good, and the Service of the Nation, doth ſo urgently require it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>GLASGOW,</hi> Printed in the Year, 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
